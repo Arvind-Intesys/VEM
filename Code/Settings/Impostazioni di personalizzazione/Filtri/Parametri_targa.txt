@@ -1,0 +1,105 @@
+Numero::1::0::1000::0
+Tipo Pompa::0::0::0::0
+Costruttore::0::0::0::0
+n serie::0::0::0::0
+Tipo motore::0::0::0::0
+Costruttore::0::0::0::0
+n serie::0::0::0::0
+Tipologia::0::0::0::0
+Tipo Inverter::0::0::0::0
+Costruttore::0::0::0::0
+n serie::0::0::0::0
+Tipologia::0::0::0::0
+Data::0::0::0::0
+Nome Cliente::0::0::0::0
+Test Engineer::0::0::0::0
+Q1 [m3/h]::1::0::100::1
+H1 [m]::1::0::100::2
+Q2 [m3/h]::1::0::100::3
+H2 [m]::1::0::100::2
+Qmax [m3/h]::1::0::100::0
+Hmax [m]::1::0::100::0
+n giranti::1::0::100::0
+MEI::0::0::0::0
+EEI::0::0::0::0
+IE::0::0::0::0
+fn [Hz]::1::0::100::0
+Un [V]::1::0::100::0
+In [A]::1::0::100::0
+P1 [W]::1::0::100::0
+P2 [W]::1::0::100::0
+Crun [uF]::1::0::100::0
+Cstart [uF]::1::0::100::0
+Uc [V]::1::0::100::0
+Numero poli::1::0::100::0
+n [rpm]::1::0::100::0
+Tn [Nm]::1::0::100::0
+pfn::1::0::100::0
+Rendimento pompa[p.u.]::1::0::100::0
+Rendimento gruppo[p.u.]::1::0::100::0
+C.I.::0::0::0::0
+Collegamento::0::0::0::0
+Peso [Kg]::1::0::100::0
+Servizio::0::0::0::0
+IP::0::0::0::0
+Ru-w [ohm]::1::0::100::0
+Temp0 [C]::1::0::100::0
+DTavvolgimento [C]::1::0::100::0
+DTcassa [C]::1::0::100::0
+IIr [A]::1::0::100::0
+TIr [Nm]::1::0::100::0
+Note::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+Dislivello [m]::0::0::0::0
+Tubo d1 nominale [DN]::1::0::100::0
+Tubo d1 [mm]::1::0::100::0
+Tubo1 lungh [mm]::1::0::100::0
+Tubo1 rug1::1::0::100::0
+Tubo d2 nominale [DN]::1::0::100::0
+Tubo d2 [mm]::1::0::100::0
+Tubo2 lungh [mm]::1::0::100::0
+Tubo2 rug1::1::0::100::0
+Cono1 d1 [mm]::1::0::100::0
+Cono1 d2 [mm]::1::0::100::0
+Cono1 l [mm]::1::0::100::0
+Cono2 d1 [mm]::1::0::100::0
+Cono2 d2 [mm]::1::0::100::0
+Cono2 l [mm]::1::0::100::0
+Note::0::0::0::0
+Note::0::0::0::0
+n giranti::1::0::100::0
+D1 girante [mm]::1::0::100::0
+B2 girante [mm]::1::0::100::0
+materiale::0::0::0::0
+tenuta::0::0::0::0
+oring::0::0::0::0
+mod.girante::0::0::0::0
+mod.corpo pompa::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+Pacco::0::0::0::0
+d int. [mm]::1::0::100::0
+d est. [mm]::1::0::100::0
+d est.rotore[mm]::1::0::100::0
+Traferro [mm]::1::0::100::0
+Costruzione::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+Frequenza modulante [kHz]::1::0::100::0
+Modulo Potenza [A]::1::0::100::0
+Taglia [W]::1::0::100::0
+Tipologia::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+Note::0::0::0::0
+
+
+
+
+
+
+
+
+

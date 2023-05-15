@@ -1,0 +1,104 @@
+Numero::Riporta
+N°curva::Riporta
+Misura::Riporta
+Acquisizione::NO
+Data::Riporta
+tempo camp. [s]::Riporta
+F [Hz]::Analisi
+F s::Analisi
+F eR::Analisi
+Uavlinea [V]::Analisi
+Uavlinea s::Analisi
+Uavlinea eR::Analisi
+Iavlinea [A]::Analisi
+Iavlinea s::Analisi
+Iavlinea eR::Analisi
+Tq [Nm]::Analisi
+Tq s::Analisi
+Tq eR::Analisi
+n [rpm]::Analisi
+n s::Analisi
+n eR::Analisi
+P1 [kW]::Analisi
+P1 s::Analisi
+P1 eR::Analisi
+Q [m3/h]**[Q]::Analisi
+Q s::Analisi
+Q eR::Analisi
+H1 [bar]::Analisi
+H1 s::Analisi
+H1 eR::Analisi
+H2 [bar]::Analisi
+H2 s::Analisi
+H2 eR::Analisi
+Htot [m]**[Htot]::Media
+P3 [W]**[P]::Media
+P2 [W]::Media
+Q [l/m]::Analisi
+Q s::Analisi
+Q eR::Analisi
+Disl. [m]::Media
+H din. [m]::Media
+Hv coni [m]::Media
+Hv tronc. [m]::Media
+Hv [m]::Media
+Pf::Media
+Uav motor [V]::Media
+Iav motor [A]::Media
+P1 motor [W]::Media
+pf motor::Media
+eta mot [%]::Media
+eta pmp [%]**[etap]::Media
+eta gr [%]::Media
+eta inv [%]::Media
+T acq [°C]::Analisi
+T acq s::Analisi
+T acq eR::Analisi
+Densità [kg/m3]::Media
+P bar [bar]::Media
+Uch1 [V]::Media
+Uch2 [V]::Media
+Uch3 [V]::Media
+Ich1 [A]::Media
+Ich2 [A]::Media
+Ich3 [A]::Media
+Uch4 [V]::Media
+Uch5 [V]::Media
+Uch6 [V]::Media
+Ich4 [A]::Media
+Ich5 [A]::Media
+Ich6 [A]::Media
+Temp a [°C]::Media
+Ru-w [ohm]::Media
+DTavvolgimento::Media
+T1cassa [°C]::Media
+T2cassa [°C]::Media
+T3cassa [°C]::Media
+DT1cassa [°C]::Media
+DT2cassa [°C]::Media
+DT3cassa [°C]::Media
+Tc1::Media
+Tc2::Media
+Tc3::Media
+Tc4::Media
+Tc5::Media
+Tc6::Media
+Tc7::Media
+Tc8::Media
+DTc1::Media
+DTc2::Media
+DTc3::Media
+DTc4::Media
+DTc5::Media
+DTc6::Media
+DTc7::Media
+DTc8::Media
+Note::Riporta
+Note::Riporta
+Note::Riporta
+Note::Riporta
+nNPSH::Riporta
+NPSH**[NPSH]::Media
+Htot Ref%::Media
+NPSH3%::Riporta
+Qref [m3/h]::Riporta

@@ -1,0 +1,2 @@
+Default::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Report\Report collaudi::Banco::_::Anno::_::Numero::_::Tipo_Prova::_::Tipologia
+Campionatura::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Report\Report collaudi::Numero::_::Tipo_Prova::_::Tipologia::::::::

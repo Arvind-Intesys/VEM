@@ -1,0 +1,103 @@
+Numero::			1	::	1	::	1
+N° curva::			1	::	1	::	1
+Misura::			1	::	1	::	1
+tempo camp. [s]::		1	::	1	::	1
+f [Hz]::			1	::	1	::	1
+Ulinea [V]::			0	::	0	::	1
+UC [V]::			0	::	0	::	1
+Uaux [V]::			0	::	0	::	1
+Ilinea [A]::			0	::	0	::	1
+Imarcia [A]::			0	::	0	::	1
+Iaux [A]::			0	::	0	::	1
+Uav [V]::			1	::	0	::	0
+Iav [A]::			1	::	0	::	0
+Uav linea [V]::			0	::	1	::	0
+Iav linea [A]::			0	::	1	::	0
+Tq [Nm]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+n [rpm]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+P1 [W]::			1	::	0	::	1
+P1 linea [W]::			0	::	1	::	0
+% scostamento::			1	::	1	::	1
+Uav motor [V]::			0	::	1	::	0
+Iav motor [A]::			0	::	1	::	0
+P1 motor [W]::			0	::	1	::	0
+% scostamento::			0	::	1	::	0
+Q [m3/h]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+Q [l/min]::			1	::	1	::	1
+H1 [bar]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+Dislivello [m]::		1	::	1	::	1
+Hdinamica [m]::			1	::	1	::	1
+Hvconi [m]::			1	::	1	::	1
+Hvtronch [m]::			1	::	1	::	1
+Hv [m]::			1	::	1	::	1
+H2 [bar]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+Htot [m]::			1	::	1	::	1
+% scostamento::			1	::	1	::	1
+P3 (Phyd) [W]::			1	::	1	::	1
+P2 [W]::			1	::	1	::	1
+eta motore [%]::		1	::	1	::	1
+eta pompa [%]::			1	::	1	::	1
+eta gruppo [%]::		1	::	1	::	1
+eta inverter [%]::		0	::	1	::	0
+T acqua [°C] T2::		1	::	1	::	1
+Densità liquido [kg/m3]::	1	::	1	::	1
+P barometrica [mbar]::		1	::	1	::	1
+pf linea::			0	::	1	::	0
+pf motor::			0	::	1	::	0
+pf::				1	::	0	::	1
+Tempo::				1	::	1	::	1
+Uch1 [V]::			1	::	1	::	0
+Uch2 [V]::			1	::	1	::	0
+Uch3 [V]::			1	::	1	::	0
+Ich1 [A]::			1	::	1	::	0
+Ich2 [A]::			1	::	1	::	0
+Ich3 [A]::			1	::	1	::	0
+Uch4 [V]::			0	::	1	::	0
+Uch5 [V]::			0	::	1	::	0
+Uch6 [V]::			0	::	1	::	0
+Ich4 [A]::			0	::	1	::	0
+Ich5 [A]::			0	::	1	::	0
+Ich6 [A]::			0	::	1	::	0
+Temp.a[°C]::			1	::	1	::	1
+Rmarcia [ohm]::			0	::	0	::	1
+Raux [ohm]::			0	::	0	::	1
+DTmarcia [°C]::			0	::	0	::	1
+DTaux [°C]::			0	::	0	::	1
+Ru-w [ohm]::			1	::	1	::	0
+DTavvolgimento [°C]::		1	::	1	::	0
+T1cassa [°C]::			1	::	1	::	1
+T2cassa [°C]::			1	::	1	::	1
+T3cassa [°C]::			1	::	1	::	1
+DT1cassa [°C]::			1	::	1	::	1
+DT2cassa [°C]::			1	::	1	::	1
+DT3cassa [°C]::			1	::	1	::	1
+Tc1::				1	::	1	::	1
+Tc2::				1	::	1	::	1
+Tc3::				1	::	1	::	1
+Tc4::				1	::	1	::	1
+Tc5::				1	::	1	::	1
+Tc6::				1	::	1	::	1
+Tc7::				1	::	1	::	1
+Tc8::				1	::	1	::	1
+DTc1::				1	::	1	::	1
+DTc2::				1	::	1	::	1
+DTc3::				1	::	1	::	1
+DTc4::				1	::	1	::	1
+DTc5::				1	::	1	::	1
+DTc6::				1	::	1	::	1
+DTc7::				1	::	1	::	1
+DTc8::				1	::	1	::	1
+Note::				1	::	1	::	1
+Note::				1	::	1	::	1
+Note::				1	::	1	::	1
+Note::				1	::	1	::	1
+n°NPSH::			1	::	1	::	1
+NPSH::				1	::	1	::	1
+Htot Ref%::			1	::	1	::	1
+NPSH3%::			1	::	1	::	1
+Qref [m3/h]::			1	::	1	::	1

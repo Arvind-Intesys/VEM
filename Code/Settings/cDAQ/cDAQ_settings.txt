@@ -1,0 +1,5 @@
+Sampling Rate::1000
+N°Samples::100
+timeout::0
+Frequency upper limit::100
+Frequency lower limit::0

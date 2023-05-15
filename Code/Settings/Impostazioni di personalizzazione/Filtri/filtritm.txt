@@ -1,0 +1,106 @@
+Numero::	1	::	1
+N° curva::	1	::	1
+Tipo Pompa::	1	::	1
+Costruttore::	1	::	1
+n serie::	1	::	1
+Tipo motore::	1	::	1
+Costruttore::	1	::	1
+n serie::	1	::	1
+Tipologia
+Tipo Inverter::	1	::	1
+Costruttore::	1	::	1
+n serie::	1	::	1
+Tipologia::	1	::	1
+Data::	1	::	1
+Nome Cliente::	1	::	1
+Test Engineer::	1	::	1
+Q1 [m3/h]::	1	::	1
+H1 [m]::	1	::	1
+Q2 [m3/h]::	1	::	1
+H2 [m] ::	1	::	1
+Qmax [m3/h]::	1	::	1
+Hmax [m]::	1	::	1
+n giranti::	1	::	1
+MEI::	1	::	1
+EEI::	1	::	1
+IE::	1	::	1
+fn [Hz]::	1	::	1
+Un [V]::	1	::	1
+In [A]::	1	::	1
+P1 [W] ::	1	::	1
+P2 [W] ::	1	::	1
+Crun [uF]::	0	::	1
+Cstart [uF]::	0	::	1
+Uc [V]::	0	::	1
+Numero poli::	1	::	1
+n [rpm]::	1	::	1
+Tn [Nm]::	1	::	1
+pfn::	1	::	1
+Rendimento pompa[p.u.]::	1	::	1
+Rendimento gruppo[p.u.]::	1	::	1
+C.I.::	1	::	1
+Collegamento::	1	::	1
+Peso [Kg]::	1	::	1
+Servizio	::	1	::	1
+IP::	1	::	1
+Ru-w [ohm]::	1	::	1
+Temp0 [C]::	1	::	1
+DTavvolgimento [C]::	1	::	1
+DTcassa [C]::	1	::	1
+IIr [A]::	1	::	1
+TIr [Nm]::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+Dislivello [m]::	1	::	1
+Tubo d1 nominale [DN]::	1	::	1
+Tubo d1 [mm]::	1	::	1
+Tubo1 lungh [mm]::	1	::	1
+Tubo1 rug1::	1	::	1
+Tubo d2 nominale [DN]::	1	::	1
+Tubo d2 [mm]::	1	::	1
+Tubo2 lungh [mm]::	1	::	1
+Tubo2 rug1::	1	::	1
+Cono1 d1 [mm]::	1	::	1
+Cono1 d2 [mm]::	1	::	1
+Cono1 l [mm]::	1	::	1
+Cono2 d1 [mm]	::	1	::	1
+Cono2 d2 [mm]	::	1	::	1
+Cono2 l [mm]::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+n giranti	::	1	::	1
+D1 girante [mm]::	1	::	1
+B2 girante [mm]::	1	::	1
+materiale::	1	::	1
+tenuta::	1	::	1
+oring::	1	::	1
+mod.girante::	1	::	1
+mod.corpo pompa::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+Pacco::	1	::	1
+d int. [mm]::	1	::	1
+d est. [mm]::	1	::	1
+d est.rotore[mm]::	1	::	1
+Traferro [mm] ::	1	::	1
+Costruzione::	0	::	1
+Note::	0	::	1
+Note::	0	::	1
+Frequenza modulante [kHz]::	1	::	1
+Modulo Potenza [A]::	1	::	1
+Taglia [W]::	1	::	1
+Tipologia::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+Note::	1	::	1
+
+
+
+
+
+
+
+
+

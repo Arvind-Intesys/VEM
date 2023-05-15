@@ -1,0 +1,14 @@
+Q DN40::BANCO 1::0.004::0.020
+Q DN80::BANCO 1::0.004::0.020
+Q DN150::BANCO 1::0.004::0.020
+Q DN25::BANCO 3::0.004::0.020
+Q DN65::BANCO 3::0.004::0.020
+[-1;+1] Bar::BANCO 3::0.004::0.020
+[0;6] Bar::BANCO 3::0.004::0.020
+[0;25] Bar::BANCO 3::0.004::0.020
+Q DN25+Q DN65::Sensore fittizio per somma::0.004::0.020
+Termocoppia 1::BANCO3::0.000::100.000
+Termocoppia 2::BANCO3::0.000::100.000
+Termocoppia 3::BANCO3::0.000::100.000
+Termocoppia 4::BANCO3::0.000::100.000
+TC Tamb res meter::BANCO3::0.000::100.000

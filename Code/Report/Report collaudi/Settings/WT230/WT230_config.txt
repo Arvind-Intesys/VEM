@@ -1,0 +1,11 @@
+Wiring(1=1P3W;2=3P3W;3=3P4W;4=3V3A;)::4
+A range(0=Auto;1=5mA;2=10mA;3=20mA;4=50mA;5=100mA;6=200mA;7=0,5A;8=1A;9=2A;10=5A;11=10A;12=20A;13=50mV;14=100mV;15=200mV;16=2,5V;17=5V;18=10V;)::0
+V range(0=Auto;1=15V;2=30V;3=60V;4=150V;5=300V;6=600V;)::0
+Filter(0=OFF;1=ON;)::0
+Line filer(0=OFF;1=ON;)::0
+Average type(0=OFF;1=LINEAR;2=EXPONENT)::1
+Constant(0=8;1=16;2=32;3=64;)::0
+Scaling(0: OFF)::0
+PT Ratio(1.0000)::1
+CT Ratio(1.0000)::1
+Power Coefficient(1.0000)::1

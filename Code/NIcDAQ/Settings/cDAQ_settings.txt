@@ -1,0 +1,5 @@
+Sampling Rate::1
+N°Samples::-1
+Timeout::10
+Upperlimt::+10
+Lowerlimit::-10								

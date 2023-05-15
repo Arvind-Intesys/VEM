@@ -1,0 +1,9 @@
+LINEA 1 - PORTATA::Ingresso Q DN40::::
+LINEA 1 - PRESSIONE MANDATA::Canale 1 [-1;+4]Bar::Canale 2 [-1;+10]Bar::Canale 3 [0;+100]Bar
+LINEA 1 - PRESSIONE ASPIRAZIONE::::::
+LINEA 2 - PORTATA::Ingresso Q DN80::::
+LINEA 2 - PRESSIONE MANDATA::Canale 1 [-1;+4]Bar::Canale 2 [-1;+10]Bar::Canale 3 [0;+100]Bar
+LINEA 2 - PRESSIONE ASPIRAZIONE::::::
+LINEA 3 - PORTATA::Ingresso Q DN150::::
+LINEA 3 - PRESSIONE MANDATA::Canale 1 [-1;+4]Bar::Canale 2 [-1;+10]Bar::Canale 3 [0;+100]Bar
+LINEA 3 - PRESSIONE ASPIRAZIONE::::::

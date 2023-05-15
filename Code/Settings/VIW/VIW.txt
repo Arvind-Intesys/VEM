@@ -1,0 +1,6 @@
+COM::COM3
+Baudrate::4800
+data bits::8
+parity(none=0,odd=1,even=2,mark=3,space=4)::2
+stop bit(1.0=10,1.5=15,2.0=20)::10
+flow(none=0,xon/xoff=1,RTS/CTS=2,DTR/DSR=4)::0

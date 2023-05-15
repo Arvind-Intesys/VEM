@@ -1,0 +1,91 @@
+PRIMA RIGA DI COMMENTO: DALLE SEGUENTI DESCRIZIONI IL PROG TEST_IO RICAVA IL NUMERO DI I\O AN\DIG GLI ANALOGICI DEVONO ESSERE SEGUITI DA FS MIN E MAX SEPARATI DA ::
+IP PLC::192.168.0.1
+
+============================ MERKER =========================================
+
+LETTURE MERKER WORD (AI)::8
+MW10::Stato DI 1
+MW12::Stato DI 2
+MW14::Stato DI 3
+MW16::Stato DO 1
+MW18::Stato DO 2
+MW20::Stato DO 3
+MW200::Allarmi_1::0::27648
+MW202::Allarmi_2::0::27648
+
+
+LETTURE MERKER REAL (AI)::0
+MD200::scorta
+
+SCRITTURE MERKER WORD (AO)::0
+
+
+SCRITTURE MERKER REAL (AO)::0
+MD78::scorta
+
+
+LETTURE MERKER BIT (DI)::13
+M100.0::Stato Pompa a vuoto
+M100.1::Linea 135A bypass trasfo
+M100.2::Linea 15A bypass trasfo
+M100.3::Linea 135A trasfo 400V
+M100.4::Linea 15A trasfo 400V
+M100.5::Linea 135A trasfo 500V
+M100.6::Linea 15A trasfo 500V
+M100.7::Linea banco 2
+M101.0::Piattaforma 1 abilitata
+M101.1::Piattaforma 2 abilitata
+M101.2::Pulsante stop
+M101.3::Pompa prova in run
+M101.4::Stato valvola sfiato
+
+
+SCRITTURE MERKER BIT (DO) --- SCRITTURE PER BYTE!!::24
+M50.0::Reset allarmi
+M50.1::Start Pompa vuoto
+M50.2::Stop Pompa vuoto
+M50.3::Start Valvola Sfiato
+M50.4::Stop Valvola Sfiato
+M50.5::Linea 135A bypass trasfo
+M50.6::Linea 15A bypass trasfo
+M50.7::Linea 135A trasfo 400V
+M51.0::Linea 15A trasfo 400V
+M51.1::Linea 135A trasfo 500V
+M51.2::Linea 15A trasfo 500V
+M51.3::Linea Banco 2
+M51.4::Start Pompa prova
+M51.5::Stop Pompa prova
+M51.6::Abilita piattaforma 1
+M51.7::Abilita piattaforma 2
+M52.0::Controllo torsiometro 1
+M52.1::scala torsiometro 1
+M52.2::Controllo torsiometro 2
+M52.3::Scala torsiometro 2
+M52.4::Watchdog
+M52.5::Scorta
+M52.6::Scorta
+M52.7::Scorta
+
+
+
+============================ DATA BLOCK ========================================
+
+LETTURE DATABLOCK WORD (AI)::0
+DB1_20::Segnale ingresso analogico 4-20mA misuratore portata DN80::0::27648
+
+LETTURE DATABLOCK REAL (AI)::0
+DB5_0::scorta
+
+SCRITTURE DATABLOCK WORD (AO)::0
+DB10_0::Coppia_Pannellino::0::100
+DB10_4::Rpm_Pannellino::0::100
+
+SCRITTURE DATABLOCK REAL (AO)::0
+DB10_0::Coppia_Pannellino
+DB10_4::Rpm_Pannellino
+
+LETTURE DATABLOCK BIT (DI)::0
+DB3_13.0::Scorta
+
+SCRITTURE DATABLOCK BIT (DO) --- SCRITTURE PER BYTE!!::0
+DB2_4.0::Scorta

@@ -1,0 +1,137 @@
+PRIMA RIGA DI COMMENTO: DALLE SEGUENTI DESCRIZIONI IL PROG TEST_IO RICAVA IL NUMERO DI I\O AN\DIG GLI ANALOGICI DEVONO ESSERE SEGUITI DA FS MIN E MAX SEPARATI DA ::
+IP PLC::200.0.0.2
+
+============================ MERKER =========================================
+
+LETTURE MERKER WORD (AI)::15
+MW200::Allarmi_1::0::27648
+MW202::Allarmi_2::0::27648
+MW204::RPM motore prova::0::27648
+MW206::CORRENTE motore prova::0::27648
+MW208::scorta
+MW210::scorta
+MW212::Ritorno t rampa KEB::0::27648
+MW214::scorta
+MW216::Codice Warning Alimentatore::0::27648
+MW218::scorta
+MW220::Codice Errore Alimentatore::0::27648
+MW222::scorta
+MW224::Lettura Coppia Alimentatore da Keb::0::27648
+MW226::scorta
+MW228::Lettura Tensione Alimnetatore KEB::0::27648
+
+LETTURE MERKER REAL (AI)::9
+MD350::Ritorno Tipo Motore In Prova KEB::0::27648
+MD354::Ritorno Corrente Nom Motore In Prova KEB::0::27648
+MD358::Ritorno Velocità Nom Motore In Prova KEB::0::27648
+MD362::Ritorno Tensione Nom Motore In Prova KEB::0::27648
+MD366::Ritorno Freq Nom Motore In Prova KEB::0::27648
+MD370::scorta
+MD374::Lettura RPM alimentatore da inverter KEB::0::27648
+MD378::scorta
+MD382::Lettura Corrente Alimentatore KEB::0::27648
+
+SCRITTURE MERKER WORD (AO)::0
+
+
+SCRITTURE MERKER REAL (AO)::8
+MD300::Tipo Motore In Prova KEB::0::27648
+MD304::Corrente Nom Motore In Prova KEB::0::27648
+MD308::Velocità Nom Motore In Prova KEB::0::27648
+MD312::Tensione Nom Motore In Prova KEB::0::27648
+MD316::Freq Nom Motore In Prova KEB::0::27648
+MD320::scorta
+MD324::Riferimento velocità alimentatore KEB::0::27648
+MD328::T rampa alimentatore KEB::0::27648
+
+LETTURE MERKER BIT (DI)::24
+M100.0::Sistema OK (Nessun allarme)
+M100.1::Rotore bloccato
+M100.2::Filtro lc
+M100.3::Bypass filtro lc
+M100.4::Trasformatore
+M100.5::bypass trasformatore
+M100.6::teleruttore wt abilitato
+M100.7::alimentatore abilitato
+M101.0::alimentatore in marcia
+M101.1::scorta
+M101.2::scorta
+M101.3::scorta
+M101.4::potenza abilitata
+M101.5::alimentatore in allarme
+M101.6::scorta
+M101.7::Conferma dati prova KEB
+M102.0::scorta
+M102.1::Warning Inverter Alimentatore
+M102.2::Variac abilitato
+M102.3::linea 125A abilitata
+M102.4::linea 63A abilitata
+M102.5::linea 16A abilitata
+M102.6::scorta
+M102.7::Enable force mode
+
+
+
+SCRITTURE MERKER BIT (DO) --- SCRITTURE PER BYTE!!::40
+M50.0::Select linea inverter
+M50.1::Abilita sense wattmetero
+M50.2::By-Pass filtro LC
+M50.3::Inserzione filtro LC
+M50.4::By-Pass trasformatore
+M50.5::Inserzione trasformatore
+M50.6::Abilita uscita variac
+M50.7::Abilita linea 125 A
+M51.0::Abilita linea 63 A
+M51.1::Abilita linea 16 A
+M51.2::Abilita scrittura Dati
+M51.3::Abilita inverter
+M51.4::Marcia inverter
+M51.5::Stop inverter
+M51.6::Senso di rotazione inverter
+M51.7::Watchdog
+M52.0::Aumenta tensione variac
+M52.1::Diminuisci tensione variac
+M52.2::Abilita elettro serratura
+M52.3::Ripristino emergence
+M52.4::Abilita ingresso variac
+M52.5::Abilita ventilatore variac
+M52.6::Reset Alarmi
+M52.7::scorta
+M53.0::scorta
+M53.1::scorta
+M53.2::scorta
+M53.3::scorta
+M53.4::scorta
+M53.5::scorta
+M53.6::scorta
+M53.7::scorta
+M54.0::Abilita collaudo
+M54.1::Disabilita collaudo
+M54.2::scorta
+M54.3::scorta
+M54.4::scorta
+M54.5::scorta
+M54.6::scorta
+M54.7::scorta
+
+
+
+============================ DATA BLOCK ========================================
+
+LETTURE DATABLOCK WORD (AI)::0
+
+
+LETTURE DATABLOCK REAL (AI)::0
+
+
+SCRITTURE DATABLOCK WORD (AO)::0
+
+
+SCRITTURE DATABLOCK REAL (AO)::0
+
+
+LETTURE DATABLOCK BIT (DI)::0
+
+
+SCRITTURE DATABLOCK BIT (DO) --- SCRITTURE PER BYTE!!::0
+

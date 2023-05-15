@@ -1,0 +1,110 @@
+PRIMA RIGA DI COMMENTO: DALLE SEGUENTI DESCRIZIONI IL PROG TEST_IO RICAVA IL NUMERO DI I\O AN\DIG GLI ANALOGICI DEVONO ESSERE SEGUITI DA FS MIN E MAX SEPARATI DA ::
+IP PLC::200.0.0.3
+
+============================ MERKER =========================================
+
+LETTURE MERKER WORD (AI)::14
+MW200::Allarmi_1::0::27648
+MW202::Allarmi_2::0::27648
+MW204::RPM motore prova::0::27648
+MW206::CORRENTE motore prova::0::27648
+MW208::RPM motore freno::0::20000
+MW210::CORRENTE motore freno::0::27648
+MW212::Fnom keb::0::27648
+MW214::Rpm nom keb::0::27648
+MW216::Pnom keb::0::27648
+MW218::Inom keb::0::27648
+MW220::Vnom keb::0::27648
+MW222::Rpm max keb::0::27648
+MW224::scorta::0::27648
+MW226::scorta::0::27648
+
+LETTURE MERKER REAL (AI)::0
+MD200::scorta
+
+SCRITTURE MERKER WORD (AO)::13
+MW150::rif limitazione coppia freno::0::27648
+MW152::rif velocità freno::0::27648
+MW154::rif coppia freno (predisposizione)::0::27648
+MW156::Riferimento tensione Alimentatore::0::27648
+MW158::Riferimento frequenza Alimentatore::0::27648
+MW160::Dato nominale motore 1::0::27648
+MW162::Dato nominale motore 2::0::27648
+MW164::Dato nominale motore 3::0::27648
+MW166::Dato nominale motore 4::0::27648
+MW168::Dato nominale motore 5::0::27648
+MW170::Dato nominale motore 6::0::27648
+MW172::scorta 1::0::27648
+MW174::scorta 2::0::27648
+
+SCRITTURE MERKER REAL (AO)::0
+MD78::scorta
+
+
+LETTURE MERKER BIT (DI)::16
+M100.0::Sistema OK (Nessun allarme)
+M100.1::Rotore bloccato
+M100.2::Filtro lc
+M100.3::Bypass filtro lc
+M100.4::Trasformatore
+M100.5::bypass trasformatore
+M100.6::teleruttore wt abilitato
+M100.7::alimentatore abilitato
+M101.0::alimentatore in marcia
+M101.1::freno abilitato
+M101.2::freno in marcia
+M101.3::freno senso di rotazione
+M101.4::potenza abilitata
+M101.5::alimentatore in allarme
+M101.6::freno in allarme
+M101.7::Scorta
+
+
+SCRITTURE MERKER BIT (DO) --- SCRITTURE PER BYTE!!::24
+M50.0::Scelta banco 2
+M50.1::Set dati motore 2
+M50.2::filtro LC
+M50.3::Bypass filtro lc
+M50.4::trasformatore
+M50.5::bypass trasformatore
+M50.6::Marcia alimentatore
+M50.7::Marcia freno
+M51.0::Stop alimentatore
+M51.1::Stop freno
+M51.2::Reset allarmi
+M51.3::Watchdog
+M51.4::Freno senso rotazione
+M51.5::Abilita collaudo
+M51.6::Disabilita collaudo
+M51.7::Abilitazione alimentatore
+M52.0::Abilitazione freno
+M52.1::Teleruttore wt
+M52.2::Senso rot motore prova
+M52.3::Scala torsiometro
+M52.4::Controllo torsiometro
+M52.5::Blocco elettroserrature
+M52.6::Scorta
+M52.7::Scorta
+
+
+============================ DATA BLOCK ========================================
+
+LETTURE DATABLOCK WORD (AI)::0
+DB1_20::Segnale ingresso analogico 4-20mA misuratore portata DN80::0::27648
+
+LETTURE DATABLOCK REAL (AI)::0
+DB5_0::scorta
+
+SCRITTURE DATABLOCK WORD (AO)::0
+DB10_0::Coppia_Pannellino::0::100
+DB10_4::Rpm_Pannellino::0::100
+
+SCRITTURE DATABLOCK REAL (AO)::0
+DB10_0::Coppia_Pannellino
+DB10_4::Rpm_Pannellino
+
+LETTURE DATABLOCK BIT (DI)::0
+DB3_13.0::Scorta
+
+SCRITTURE DATABLOCK BIT (DO) --- SCRITTURE PER BYTE!!::0
+DB2_4.0::Scorta											

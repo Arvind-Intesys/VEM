@@ -1,0 +1,17 @@
+tempo[h:m:s]::[h:m:s]::7::0
+n [rpm]::n [rpm]::17::1
+Q [l/min]::Q [l/min]::22::2
+Htot [m]::Htot [m]::31::3
+Ulinea [V]::Ulin [V]::10::4
+UC [V]::UC [V]::11::5
+Uaux [V]::Uaux [V]::12::6
+Ilinea [A]::Ilin [A]::13::7
+Imarcia [A]::Imar [A]::14::8
+Iaux [A]::Iaux [A]::15::9
+f [Hz]::f [Hz]::9::10
+P1 [kW]::P1 [kW]::18::11
+P2 [kW]::P2 [kW]::35::12
+P3 (Phyd) [kW]::P3[kW]::33::13
+pf::pf::46::14
+T acqua [°C]::Th2o [°C]::43::15
+Temp.amb[°C]::Tamb[°C]::47::16

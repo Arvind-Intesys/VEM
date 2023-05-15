@@ -1,0 +1,5 @@
+COM::COM4
+BaudRate::19200
+Parity(0=none)::0
+fLOWcONTROL(0=none)::0
+ADDRESS::1

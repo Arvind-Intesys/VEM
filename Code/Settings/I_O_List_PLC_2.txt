@@ -1,0 +1,71 @@
+	PRIMA RIGA DI COMMENTO: DALLE SEGUENTI DESCRIZIONI IL PROG TEST_IO RICAVA IL NUMERO DI I\O AN\DIG GLI ANALOGICI DEVONO ESSERE SEGUITI DA FS MIN E MAX SEPARATI DA ::
+IP PLC::200.0.0.1
+
+============================ MERKER =========================================
+
+LETTURE MERKER WORD (AI)::0
+
+LETTURE MERKER REAL (AI)::0
+
+SCRITTURE MERKER WORD (AO)::0
+
+SCRITTURE MERKER REAL (AO)::0
+
+LETTURE MERKER BIT (DI)::16
+M100.0::system okay
+M100.1::relè resistomat abilitato
+M100.2::Freno abilitato
+M100.3::Freno in marcia
+M100.4::scorta
+M100.5::scorta
+M100.6::scorta
+M100.7::scorta
+M101.0::scorta
+M101.1::scorta
+M101.2::scorta
+M101.3::scorta
+M101.4::scorta
+M101.5::scorta
+M101.6::scorta
+M101.7::scorta
+
+SCRITTURE MERKER BIT (DO) --- SCRITTURE PER BYTE!!::24
+M50.0::Abilita misura resistenza
+M50.1::Misura resistenza ramo 1
+M50.2::Misura resistenza ramo 2
+M50.3::Misura resistenza ramo 3
+M50.4::Selezione banco
+M50.5::Controllo torsiometro
+M50.6::Scala torsiometro
+M50.7::Select current mode
+M51.0::Select torque mode
+M51.1::Select speed mode
+M51.2::Watch dog
+M51.3::Scorta
+M51.4::Scorta
+M51.5::Scorta
+M51.6::Scorta
+M51.7::Scorta
+M52.0::Bench Selection(0-B1,1-B2)
+M52.1::External alaram
+M52.2::Enable external program
+M52.3::Reset
+M52.4::Start
+M52.5::Stop
+M52.6::Block
+M52.7::Enable force mode 
+
+============================ DATA BLOCK ========================================
+
+LETTURE DATABLOCK WORD (AI)::0
+
+LETTURE DATABLOCK REAL (AI)::0
+
+SCRITTURE DATABLOCK WORD (AO)::0
+
+SCRITTURE DATABLOCK REAL (AO)::0
+
+LETTURE DATABLOCK BIT (DI)::0
+
+SCRITTURE DATABLOCK BIT (DO) --- SCRITTURE PER BYTE!!::0
+										

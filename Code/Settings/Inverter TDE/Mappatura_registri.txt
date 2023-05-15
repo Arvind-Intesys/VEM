@@ -1,0 +1,32 @@
+REGISTRO INIZIALE :: NUMERO REGISTRI :: DESCRIZIONE :: TIPO ACCESSO
+0::200::Table of parameters (P00-P199)::R\W
+200::100::Table of connections (C00-C99)::R\W
+300::100::Table of application parameters (E00-E99)::R\W
+8192::500::Table of expanded application parameters (E100-E600)::R\W
+896::128::Table of internal values (D00-D127)::R
+512::1::Drive state::R
+514::1::Drive alarms::R
+515::1::Alarm enabling::R\W
+704::1::Speed reference from fieldbus::R\W
+705::1::Torque limit from fieldbus::R\W
+706::1::Torque reference from fieldbus::R\W
+707::1::Mechanical position read::R
+768::2::Logic functions of digital input::R
+864::2::Logic funtction of digital input from serial c.::R\W
+800::2::logical function of standard digital outputs::R
+832::2::logic function of application digital output::R
+1324::800::Table of parameters formats::R
+2124::400::Table of connections formats::R
+3072::128::Table of monitor and analog outputs values::R
+3328::500::Table of application parameters formats::R
+2524::128::Table of internal values formats::R
+2784::10::Utility::R\W
+2880::5::Profibus Configuration::R\W
+2886::2::Profibus state::R
+2816::40::Profibus Cyclic Mapping::R\W
+2864::2::Profibus map error::R
+2880::5::Anybus Configuration::R\W
+8123::2::Anybus state 1::R
+8169::1::Anybus state 2::R
+2816::40::Anybus Cyclic Mapping::R\W
+2864::2::Anybus map error::R

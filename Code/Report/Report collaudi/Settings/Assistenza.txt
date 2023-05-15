@@ -1,0 +1,12 @@
+Simulazione::1
+Monitor principale::1
+Monitor secondario::2
+PC (0=BANCO1-server,1=BANCO2-client)::1
+NUMERO BANCO::2
+IP PC SERVER::192.168.1.115
+Percorso file udl per connessione DB collaudi sql::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Archivio\UDL per sql.udl
+Percorso DB Collaudi mdb locale di sicurezza::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Archivio\Collaudi NM.mdb
+Percorso DB Motori mdb::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Archivio\Rendimenti_motori.mdb
+Percorso DB motori rete mdb::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Archivio\Rete\Rendimenti_motori.mdb
+Percorso cartella impostazioni personalizzazioni::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Settings\Impostazioni di personalizzazione
+Percorso cartella files csv compilazione bollettino::C:\Lavori_in_corso_Tecnico4\C2017052 Robuschi\Codice\Settings\Impostazioni di personalizzazione

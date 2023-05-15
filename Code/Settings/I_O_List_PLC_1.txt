@@ -1,0 +1,98 @@
+PRIMA RIGA DI COMMENTO: DALLE SEGUENTI DESCRIZIONI IL PROG TEST_IO RICAVA IL NUMERO DI I\O AN\DIG GLI ANALOGICI DEVONO ESSERE SEGUITI DA FS MIN E MAX SEPARATI DA ::
+IP PLC::200.0.0.2
+
+============================ MERKER =========================================
+
+LETTURE MERKER WORD (AI)::10
+MW200::Allarmi_1::0::27648
+MW202::Allarmi_2::0::27648
+MW204::scorta::0::27648
+MW206::scorta::0::27648
+MW208::RPM motore prova::0::27648
+MW210::CORRENTE motore prova::0::27648
+MW212::RPM motore freno::0::20000
+MW214::CORRENTE motore freno::0::27648
+MW216::scorta::0::27648
+MW218::scorta::0::27648
+
+LETTURE MERKER REAL (AI)::0
+MD200::scorta
+
+SCRITTURE MERKER WORD (AO)::5
+MW150::rif limitazione coppia freno::0::27648
+MW152::rif velocità freno::0::27648
+MW154::rif coppia freno (predisposizione)::0::27648
+MW156::Riferimento tensione AFE::0::27648
+MW158::Riferimento frequenza AFE::0::27648
+
+SCRITTURE MERKER REAL (AO)::0
+MD78::scorta
+
+
+LETTURE MERKER BIT (DI)::16
+M100.0::Sistema OK (Nessun allarme)
+M100.1::Rotore bloccato
+M100.2::Scorta 1
+M100.3::prova diretto inverter
+M100.4::prova con filtro lc
+M100.5::teleruttore wt abilitato
+M100.6::alimentatore sinus penta abilitato
+M100.7::alimentatore sinus penta in marcia
+M101.0::freno abilitato
+M101.1::Freno in marcia
+M101.2::Senso rotazione freno
+M101.3::potenza abilitata
+M101.4::Scorta
+M101.5::Scorta
+M101.6::Scorta
+M101.7::Scorta
+
+
+SCRITTURE MERKER BIT (DO) --- SCRITTURE PER BYTE!!::24
+M50.0::Scelta banco 1
+M50.1::Set dati motore 2
+M50.2::diretto inverter
+M50.3::filtro LC
+M50.4::marcia alimentatore sinus penta
+M50.5::Marcia FRENO
+M50.6::Stop Alimentatore sinus penta
+M50.7::Stop Freno
+M51.0::Reset Allarmi
+M51.1::Watchdog
+M51.2::Senso rotazione freno
+M51.3::Abilita collaudo
+M51.4::Disabilita collaudo
+M51.5::Abilitazione Alimentatore
+M51.6::Abilitazione FRENO
+M51.7::teleruttore WT
+M52.0::Senso rot motore prova
+M52.1::Scorta
+M52.2::Scorta
+M52.3::Scorta
+M52.4::Scorta
+M52.5::Scorta
+M52.6::Scorta
+M52.7::Scorta
+
+
+============================ DATA BLOCK ========================================
+
+LETTURE DATABLOCK WORD (AI)::0
+DB1_20::Segnale ingresso analogico 4-20mA misuratore portata DN80::0::27648
+
+LETTURE DATABLOCK REAL (AI)::0
+DB5_0::scorta
+
+SCRITTURE DATABLOCK WORD (AO)::0
+DB10_0::Coppia_Pannellino::0::100
+DB10_4::Rpm_Pannellino::0::100
+
+SCRITTURE DATABLOCK REAL (AO)::0
+DB10_0::Coppia_Pannellino
+DB10_4::Rpm_Pannellino
+
+LETTURE DATABLOCK BIT (DI)::0
+DB3_13.0::Scorta
+
+SCRITTURE DATABLOCK BIT (DO) --- SCRITTURE PER BYTE!!::0
+DB2_4.0::Scorta											

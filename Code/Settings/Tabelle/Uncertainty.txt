@@ -1,0 +1,8 @@
+Rate of flow[%]::0,03
+Differential pressure[%]::0,04
+Discharge pressure[%]::0,03
+Suction pressure[%]::0,03
+Driver power input[%]::0,03
+Speed of rotation[%]::0,01
+Torque[%]::0,03
+Temperature[°C]::0,3

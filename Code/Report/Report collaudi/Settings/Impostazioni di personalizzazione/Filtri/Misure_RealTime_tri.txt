@@ -1,0 +1,16 @@
+n [rpm]::n [rpm]::13::0
+Q [l/min]::Q [l/min]::18::1
+Q [m3/h]::Q [m3/h]::16::2
+H1 [m]::H1 [m]::20::3
+H2 [m]::H2 [m]::26::4
+Htot [m]::Htot [m]::27::5
+Hdinamica [m]::Hdin[m]::22::6
+P2 [kW]::P2 [kW]::31::7
+P3 (Phyd) [kW]::P3[kW]::29::8
+Tc1[°C]::Tc1[°C]::54::9
+f [Hz]::f [Hz]::9::10
+Uav [V]::Uav [V]::10::11
+Iav [A]::Iav [A]::11::12
+P1 [kW]::P1 [kW]::14::13
+pf::pf::42::14
+Tq [Nm]::Tq [Nm]::12::15

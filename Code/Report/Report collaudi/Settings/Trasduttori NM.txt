@@ -1,0 +1,59 @@
+TRASDUTTORE PORTATA	::FM-01			::FM-02			::FM-03			::FM-04
+TAGLIA			::DN250			::DN200			::DN65			::DN55
+CERTIFICATO		::123456		::22334455		::1111222222		::35435434
+TIPO			::Endress-Hauser	::Endress-Hauser	::Endress-Hauser	::Endress-Hauser
+CAMPIONI MEDIE(MAX50)	::5			::5			::5			::5
+SERIALE			::1234567890		::332211		::111111111		::544566
+DATA ULTIMA CAL.	::29/06/14		::13/01/14		::13/01/14		::12/12/12
+PROSSIMA DATA CAL.	::19/06/15		::12/02/15		::12/01/14		::12/12/12
+ER RDG			::0,2			::0,2			::0,2			::0,2
+ER F.S.			::			::			::			::
+OFFSET COM.		::			::			::			::
+
+TRASDUTTORE PRESSIONE	::PG-P3			::PG-P4			::VG-PA4		::PG-P5
+TAGLIA			::			::			::			::
+CERTIFICATO		::123456		::22334455		::1111222222		::342564657
+TIPO			::Emerson		::Emerson		::Emerson		::Endress-Hauser
+CAMPIONI MEDIE(MAX50)	::5			::5			::5			::5
+SERIALE			::1234567890		::332211		::111111111		::567646252
+DATA ULTIMA CAL.	::04/06/14		::04/06/14		::04/06/14		::04/06/14
+PROSSIMA DATA CAL.	::03/12/14		::03/03/15		::03/12/14		::03/12/14
+ER RDG			::			::			::			::
+ER F.S.			::0,5			::0,5			::0,5			::0,5
+OFFSET COM.		::			::			::			::
+
+TRASDUTTORE VELOCITA'	::TM-01			::TM-02			::TM-03			::
+TAGLIA			::			::			::			::
+CERTIFICATO		::123456		::22334455		::1111222222		::
+TIPO			::TESTO			::TORSIOMETRO		::OTTICA		::
+CAMPIONI MEDIE(MAX50)	::5			::5			::5			::
+SERIALE			::1234567890		::332211		::111111111		::
+DATA ULTIMA CAL.	::04/02/14		::28/10/13		::03/11/13		::
+PROSSIMA DATA CAL.	::03/02/15		::27/10/14		::02/11/14		::
+ER RDG			::			::			::			::
+ER F.S.			::0,5			::0,5			::0,5			::
+OFFSET COM.		::			::			::			::
+
+TRASDUTTORE COPPIA	::TQ-01			::
+TAGLIA			::			::
+CERTIFICATO		::123456		::
+TIPO			::HBM			::
+CAMPIONI MEDIE(MAX50)	::5			::
+SERIALE			::1234567890		::
+DATA ULTIMA CAL.	::03/11/13		::
+PROSSIMA DATA CAL.	::02/11/14		::
+ER RDG			::			::
+ER F.S.			::0,5			::
+OFFSET COM.		::			::
+
+TRASDUTTORE TEMPERATURA	::T-07			::
+TAGLIA			::			::
+CERTIFICATO		::123456		::
+TIPO			::Endress-Hauser	::
+CAMPIONI MEDIE(MAX50)	::5			::
+SERIALE			::1234567890		::
+DATA ULTIMA CAL.	::03/11/13		::
+PROSSIMA DATA CAL.	::02/11/14		::
+ER RDG			::			::
+ER F.S.			::0,5			::
+OFFSET COM.		::			::

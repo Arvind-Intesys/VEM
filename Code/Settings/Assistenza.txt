@@ -1,0 +1,12 @@
+Simulazione::0
+Monitor principale::1
+Monitor secondario::2
+MODALITA' CARICO RESISTIVO (1=SI,0=NO)::0
+NUMERO BANCO::2
+IP PC SERVER::192.168.1.115
+Percorso file udl per connessione DB collaudi sql::C:\Lavori in Corso\C2021031 VEM\Code\Archivio\UDL per sql.udl
+Percorso DB Collaudi mdb locale di sicurezza::C:\Lavori in Corso\C2021031 VEM\Code\Archivio\Collaudi VEM.mdb
+Percorso DB Motori mdb::C:\Lavori in Corso\C2021031 VEM\Code\Archivio\Rendimenti_motori.mdb
+Percorso DB motori rete mdb::C:\Lavori in Corso\C2021031 VEM\Code\Archivio\Rete\Rendimenti_motori.mdb
+Percorso cartella impostazioni personalizzazioni::C:\Lavori in Corso\C2021031 VEM\Code\Settings\Impostazioni di personalizzazione
+Percorso cartella files csv compilazione bollettino::C:\Lavori in Corso\C2021031 VEM\Code\Settings\Impostazioni di personalizzazione

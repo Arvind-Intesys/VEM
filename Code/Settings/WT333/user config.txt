@@ -1,0 +1,2 @@
+:INP:SCAL:CT:ALL 1000;
+

@@ -1,0 +1,8 @@
+Maximum value of current Banco 1[A]:: 10
+Maximum value of current Banco 2[A]:: 10	
+Maximum value of torque Banco 1[Nm]:: 2000
+Maximum value of torque Banco 2[Nm]:: 2000
+Maximum value of speed Banco 1[A]:: 10
+Maximum value of speed Banco 2[A]:: 10
+Maximum value of power Banco 1[KW]:: 40
+Maximum value of power Banco 2[KW]:: 30	

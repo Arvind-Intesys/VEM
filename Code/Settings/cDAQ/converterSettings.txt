@@ -1,0 +1,6 @@
+Torsiometro1::100::10::0
+Torsiometro2::1000::10::0
+StrainGauge1::100::10::0
+StrainGauge2::100::10::0
+Theromocoopia::100::10::0
+PT-100::100::10::0

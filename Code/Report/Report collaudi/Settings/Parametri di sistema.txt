@@ -1,0 +1,1 @@
+g::9,806486::Dislivello[m]::1,000000::Controllo dislivello::1

@@ -1,0 +1,2 @@
+VT Ratio::1,0
+CT Ratio::1,0	

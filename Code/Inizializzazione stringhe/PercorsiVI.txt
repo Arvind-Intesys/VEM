@@ -1,0 +1,178 @@
+MotorTEST_2019.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi
+Abilitazione procedura torsiometro.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Abilitazione procedura torsiometro.vi
+Acq avvenuta global.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Acq avvenuta global.vi
+ALIM SELECTION.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\ALIM SELECTION.ctl
+ALLARMI_VI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\ALLARMI_VI Folder\Lavori in corso\C2015015_Turo_PumpTEST\PC\Codice\SubVI\ALLARMI_VI.vi
+AO List.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\AO List.ctl
+Application Directory.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\file.llb\Application Directory.vi
+Auto width colum table.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Auto width colum table.vi
+Banco.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Banco.ctl
+CALL_APLUS.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\CALL_APLUS.vi
+CALL_MAIN_2.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\CALL_MAIN_2.vi
+carica bollettino.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\carica bollettino.vi
+Carica lista canali.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Carica lista canali.vi
+Carica sensori canale.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Carica sensori canale.vi
+cDAQ Settings NM.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\cDAQ Settings NM.ctl
+cDAQ_PLC.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\SubVI\cDAQ_PLC.vi
+Clear Errors.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\error.llb\Clear Errors.vi
+Cluster Alarms.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestione Inverter\Da TDE TestDrive\Cluster Alarms.ctl
+Cluster INFO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Cluster INFO.ctl
+Cluster misure ALL.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Cluster misure ALL.ctl
+Cluster MISURE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Cluster MISURE.ctl
+Cluster NI.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Cluster NI.ctl
+cluster STATUS UPDATE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\cluster STATUS UPDATE.ctl
+Cluster valvola.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Cluster valvola.ctl
+ClusterMisura_e_Unità_INPUT.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Scala segnali in out\TypeDef\ClusterMisura_e_Unità_INPUT.ctl
+ClusterRes.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\ClusterRes.ctl
+Collegamenti_elettrici.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Collegamenti_elettrici.ctl
+Comandi_Alimentatore.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Comandi_Alimentatore.ctl
+Compila da file.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Compila da file.vi
+Control motor bollettino.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Control motor bollettino.ctl
+Control ref bollettino.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Control ref bollettino.ctl
+CONTROLLI NM.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\CONTROLLI NM.ctl
+Corr manager.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Corr manager.vi
+Corr.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Corr.vi
+Create New Palette.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_stand alone\Create New Palette.vi
+CRITERI RICERCA.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\CRITERI RICERCA.vi
+ctlSeqFNs_Sub ELETTROTEST60A.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SubVI ELETTROTEST60A Folder\QSM PC EXAMPLE.llb\ctlSeqFNs_Sub ELETTROTEST60A.ctl
+ctlSeqFNs_Sub VIW.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SubVI ELETTROTEST60A Folder\QSM PC EXAMPLE.llb\ctlSeqFNs_Sub VIW.ctl
+Ctrl Settaggi Elettrotest60A.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SubVI ELETTROTEST60A Folder\QSM PC EXAMPLE.llb\Ctrl Settaggi Elettrotest60A.ctl
+DATA.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\DATA.vi
+DCREG.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\DCREG\DCREG.vi
+Definizione linea.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Definizione linea.ctl
+Descrizione prove manager.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Descrizione prove manager.vi
+DEVICE NAME.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DEVICE NAME.ctl
+Dialog abilita potenza.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Dialog abilita potenza.vi
+Dialog DISabilita potenza.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Dialog DISabilita potenza.vi
+Dialogo prosegui collaudo.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Dialogo prosegui collaudo.vi
+DO List.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\DO List.ctl
+DOinterfaccia.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DOinterfaccia.ctl
+DT GENERATORE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT GENERATORE.ctl
+DT GENERICO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT GENERICO.ctl
+DT MOTORE CA.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT MOTORE CA.ctl
+DT MOTORE CC.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT MOTORE CC.ctl
+DT POMPA EXX.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT POMPA EXX.ctl
+DT POMPA.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT POMPA.ctl
+DT TRASFORMATORE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\DT TRASFORMATORE.ctl
+easy open VI panel.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_general functions\easy open VI panel.vi
+Editor Soglie pedrollo.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\ALLARMI_VI Folder\_general functions\Editor Soglie pedrollo.vi
+ELATTROTEST PS.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\ELATTROTEST PS.ctl
+Estrai soglie.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\ALLARMI_VI Folder\_general functions\Estrai soglie.vi
+Filtri acquisizioni in tabella prove NEW.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Filtri acquisizioni in tabella prove NEW.vi
+Format data da formato sql.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Format data da formato sql.vi
+Formato data sql.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Formato data sql.vi
+GESTIONE ALIMENTATORI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\GESTIONE ALIMENTATORI.vi
+GESTIONE ALLARMI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\GESTIONE ALLARMI.vi
+Gestione filtri.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestione filtri.vi
+GESTIONE FRENO.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\GESTIONE FRENO.vi
+gestione menù a tendina.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\gestione menù a tendina.vi
+Gestione misure real time.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestione misure real time.vi
+Gestione sensori.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestione sensori.vi
+Gestore procedure.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestore procedure.vi
+GESTORE PROFILI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\GESTORE PROFILI.vi
+Gestore prove.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\PROVE PUMPTEST\Gestore prove.vi
+Global anno.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global anno.vi
+Global banco.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global banco.vi
+Global dati tab freddo.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global dati tab freddo.vi
+Global DT per visualizzazione.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global DT per visualizzazione.vi
+Global FINE AVVIO.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global FINE AVVIO.vi
+Global IP address server.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global IP address server.vi
+Global percorso impostazioni.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global percorso impostazioni.vi
+Global procedura abilitata.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global procedura abilitata.vi
+Global prova in corso.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global prova in corso.vi
+Global res manuali.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global res manuali.vi
+Global ricalcola progressivo salvataggio.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global ricalcola progressivo salvataggio.vi
+Global ROTORE BLOCCATO SETTINGS.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global ROTORE BLOCCATO SETTINGS.vi
+Global rpm nom.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global rpm nom.vi
+Global scale res meter.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global scale res meter.vi
+Global SCALE VIW.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global SCALE VIW.vi
+Global scelta DB rete o Locale.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global scelta DB rete o Locale.vi
+Global_All_Data.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Global_All_Data.vi
+GlobalForzaUscite.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\GlobalForzaUscite.vi
+Globals.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\Globals.vi
+Grafici MANAGER.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Grafici MANAGER.vi
+Impostazioni elettriche.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Impostazioni elettriche.ctl
+Inserisci codice.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Inserisci codice.vi
+INSERT INTO VI.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_mdb\INSERT INTO VI.vi
+INTERFACCIA.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\INTERFACCIA.ctl
+INTRO WINDOW.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\INTRO WINDOW.vi
+leggi tipo collegamento.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\leggi tipo collegamento.vi
+Linea idraulica selezionata.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Linea idraulica selezionata.vi
+Lista AO sistema.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Lista AO sistema.ctl
+load string.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\load string.vi
+loop timer.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_general functions\loop timer.vi
+MAIN GENERA FILES STRINGHE.vi	C:\Lavori_in_corso_Tecnico4\C2018033 PENTAIR PUMPTEST\Codice\TRADUZIONI LABVIEW\MAIN GENERA FILES STRINGHE.vi
+MAIN SINUS PENTA.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SINUS PENTA SANTERNO\MAIN SINUS PENTA.vi
+MDB Reference.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\MDB Reference.vi
+MISURE NM.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\MISURE NM.ctl
+misure RT.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\misure RT.vi
+MISURE WT.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\MISURE WT.ctl
+Modalità avvio.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\Modalità avvio.ctl
+MOTORE EEX.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\MOTORE EEX.ctl
+MotorTEST_2019.vi:Instance:1	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi\1
+MotorTEST_2019.vi:Instance:4	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi\4
+MotorTEST_2019.vi:Instance:6	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi\6
+MotorTEST_2019.vi:Instance:8	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi\8
+MotorTEST_2019.vi:Instance:9	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\MotorTEST_2019.vi\9
+NI_Database_API.lvlib:Conn Execute.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Connection.llb\Conn Execute.vi
+NI_Database_API.lvlib:DB Tools Close Connection.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Connection.llb\DB Tools Close Connection.vi
+NI_Database_API.lvlib:DB Tools Delete Data.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Auxilliary.llb\DB Tools Delete Data.vi
+NI_Database_API.lvlib:DB Tools Execute Query.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Auxilliary.llb\DB Tools Execute Query.vi
+NI_Database_API.lvlib:DB Tools Fetch Recordset Data.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Recordset.llb\DB Tools Fetch Recordset Data.vi
+NI_Database_API.lvlib:DB Tools Free Object.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Auxilliary.llb\DB Tools Free Object.vi
+NI_Database_API.lvlib:DB Tools List Columns.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Auxilliary.llb\DB Tools List Columns.vi
+NI_Database_API.lvlib:DB Tools Select Data.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Auxilliary.llb\DB Tools Select Data.vi
+NI_Database_API.lvlib:Rec Destroy - Connection.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Recordset.llb\Rec Destroy - Connection.vi
+NI_Database_API.lvlib:Rec Fetch Recordset Data (R).vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\addons\database\Recordset.llb\Rec Fetch Recordset Data (R).vi
+nuovo progressivo.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\nuovo progressivo.vi
+PANNELLO DATABASE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\PANNELLO DATABASE.ctl
+Parametri DCREG letti.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\DCREG\Parametri DCREG letti.ctl
+Parametri inverter letti.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SINUS PENTA SANTERNO\controls\Parametri inverter letti.ctl
+Parametri inverter.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Gestione Inverter\Parametri inverter.ctl
+PROCEDURE.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\PROCEDURE.ctl
+PROCESS_VI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\PROCESS_VI.vi
+PULISCI LUNGHEZZA RING.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_string functions\PULISCI LUNGHEZZA RING.vi
+Read Delimited Spreadsheet (string).vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\file.llb\Read Delimited Spreadsheet (string).vi
+Read Delimited Spreadsheet.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\file.llb\Read Delimited Spreadsheet.vi
+REPORT XLS PEDROLLO 2.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\REPORT XLS PEDROLLO 2.vi
+RES.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Resistomat\RES.vi
+rpm manuale global.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\rpm manuale global.vi
+rpm nominali global.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\rpm nominali global.vi
+SALVA BOLLETTINO.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\SALVA BOLLETTINO.vi
+SalvaImpostazioni_INPUT.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Scala segnali in out\SubVi\SalvaImpostazioni_INPUT.vi
+SalvaImpostazioni_OUTPUT.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Scala segnali in out\SubVi\SalvaImpostazioni_OUTPUT.vi
+SET AO.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\SET AO.vi
+SET ARRAY AO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\SET ARRAY AO.ctl
+SET ARRAY DO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\SET ARRAY DO.ctl
+Set DO.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\Set DO.vi
+SET SINGLE AO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\SET SINGLE AO.ctl
+SET SINGLE DO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\cDAQ\SET SINGLE DO.ctl
+SETUP INGRESSO.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\SETUP INGRESSO.ctl
+Simple Error Handler.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\error.llb\Simple Error Handler.vi
+SMQ_HistoryManager.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_SMQ\SMQ_HistoryManager.vi
+SMQ_MANAGER.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_SMQ\SMQ_MANAGER.vi
+SMQ_N_MANAGER.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\user.lib\_Utility\_SMQ\SMQ_N_MANAGER.vi
+Stato alimentatore 1.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Stato alimentatore 1.vi
+Stato comandi freno.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Stato comandi freno.vi
+STATO PLC 1.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\STATO PLC 1.ctl
+STATO PLC 2.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\STATO PLC 2.ctl
+STATO PLC 3.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\STATO PLC 3.ctl
+StatoAO_cdaq.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\controls\StatoAO_cdaq.ctl
+statoAO_plc_1.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\controls\statoAO_plc_1.ctl
+statoAO_plc_2.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\controls\statoAO_plc_2.ctl
+statoAO_plc_3.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\controls\statoAO_plc_3.ctl
+statoDO_Cdaq.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\controls\statoDO_Cdaq.ctl
+StatoDO_PLC_1.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\StatoDO_PLC_1.ctl
+StatoDO_PLC_2.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\StatoDO_PLC_2.ctl
+StatoDO_PLC_3.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\StatoDO_PLC_3.ctl
+String To Dbl.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\String To Dbl.vi
+TIMER_VI.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\TIMER_VI.vi
+UnitàMisura.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Scala segnali in out\TypeDef\UnitàMisura.ctl
+Uscite PLC 1.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\Uscite PLC 1.ctl
+Uscite PLC 2.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\Uscite PLC 2.ctl
+Uscite PLC 3.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\cDAQ_PLC Folder\ST1200_LIST_IO\Uscite PLC 3.ctl
+Valuta soglie.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\ALLARMI_VI Folder\_general functions\Valuta soglie.vi
+Write Delimited Spreadsheet (string).vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\file.llb\Write Delimited Spreadsheet (string).vi
+Write Delimited Spreadsheet.vi	C:\Program Files (x86)\National Instruments\LabVIEW 2016\vi.lib\Utility\file.llb\Write Delimited Spreadsheet.vi
+Write shared variable.vi	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\SubVI\Write shared variable.vi
+WT SELECTION.ctl	C:\Lavori_in_corso_Tecnico4\C2018044_Oberti\Codice\TypeDef\WT SELECTION.ctl

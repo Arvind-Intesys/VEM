@@ -1,0 +1,135 @@
+Banco::Banco::Banco::Banco::Banco::1::0::1::1::0
+Anno::Anno::Anno::Anno::Anno::1::0::1::1::0
+Numero::Numero::Numero::Numero::Numero::1::0::1::1::0
+Ntabella::Ntabella::Ntabella::Ntabella::Ntabella::1::0::1::1::0
+Misura::Misura::Misura::Misura::Misura::1::0::1::1::0
+Tipo Prova::Tipo Prova::Tipo Prova::Tipo Prova::Tipo Prova::1::0::1::1::0
+ProgressivoAcq::ProgressivoAcq::ProgressivoAcq::ProgressivoAcq::ProgressivoAcq::1::0::1::1::0
+Descrizione::Descrizione::Descrizione::Descrizione::Descrizione::1::0::1::1::0
+Data_ora::Data_ora::Data_ora::Data_ora::Data_ora::1::0::1::1::0
+t. acq [h:m:s]::t. acq [h:m:s]::t. acq [h:m:s]::t. acq [h:m:s]::t. acq [h:m:s]::1::0::1::1::0
+t. acq [min]::t. acq [min]::t. acq [min]::t. acq [min]::t. acq [min]::1::0::1::1::0
+t. acq [s]::t. acq [s]::t. acq [s]::t. acq [s]::t. acq [s]::1::0::1::1::0
+n [rpm]::n [rpm]::n [rpm]::n [rpm]::n [rpm]::1::0::1::1::0
+f [Hz]::f [Hz]::f [Hz]::f [Hz]::f [Hz]::1::0::1::1::0
+U1[V]::U1[V]::U1[V]::U1[V]::U1[V]::1::0::1::1::0
+U2 [V]::U2 [V]::U2 [V]::U2 [V]::U2 [V]::1::0::1::1::0
+U3 [V]::U3 [V]::U3 [V]::U3 [V]::U3 [V]::1::0::1::1::0
+U123_media [V]::U123_media [V]::U123_media [V]::U123_media [V]::U123_media [V]::1::0::1::1::0
+I1[A]::I1[A]::I1[A]::I1[A]::I1[A]::1::0::1::1::0
+I2[A]::I2[A]::I2[A]::I2[A]::I2[A]::1::0::1::1::0
+I3[A]::I3[A]::I3[A]::I3[A]::I3[A]::1::0::1::1::0
+I123_media [A]*I::I123_media [A]*I::I123_media [A]*I::I123_media [A]*I::I123_media [A]*I::1::0::1::1::0
+I_123_sbil [%]::I_123_sbil [%]::I_123_sbil [%]::I_123_sbil [%]::I_123_sbil [%]::1::0::1::1::0
+Ulin[V]::Ulin[V]::Ulin[V]::Ulin[V]::Ulin[V]::1::0::1::1::0
+Uc [V]::Uc [V]::Uc [V]::Uc [V]::Uc [V]::1::0::1::1::0
+Uaux [V]::Uaux [V]::Uaux [V]::Uaux [V]::Uaux [V]::1::0::1::1::0
+Ilin[A]*I::Ilin[A]*I::Ilin[A]*I::Ilin[A]*I::Ilin[A]*I::1::0::1::1::0
+Imar[A]::Imar[A]::Imar[A]::Imar[A]::Imar[A]::1::0::1::1::0
+Iaux[A]::Iaux[A]::Iaux[A]::Iaux[A]::Iaux[A]::1::0::1::1::0
+Uarm[V]::Uarm[V]::Uarm[V]::Uarm[V]::Uarm[V]::1::0::1::1::0
+Uecc[V]::Uecc[V]::Uecc[V]::Uecc[V]::Uecc[V]::1::0::1::1::0
+Iarm[A]*I::Iarm[A]*I::Iarm[A]*I::Iarm[A]*I::Iarm[A]*I::1::0::1::1::0
+Iecc[A]::Iecc[A]::Iecc[A]::Iecc[A]::Iecc[A]::1::0::1::1::0
+pf::pf::pf::pf::pf::1::0::1::1::0
+P1 [W]::P1 [W]::P1 [W]::P1 [W]::P1 [W]::1::0::1::1::0
+P1 [kW]::P1 [kW]::P1 [kW]::P1 [kW]::P1 [kW]::1::0::1::1::0
+Q [VAR]::Q [VAR]::Q [VAR]::Q [VAR]::Q [VAR]::1::0::1::1::0
+Q [kVAR]::Q [kVAR]::Q [kVAR]::Q [kVAR]::Q [kVAR]::1::0::1::1::0
+S [VA]::S [VA]::S [VA]::S [VA]::S [VA]::1::0::1::1::0
+S [kVA]::S [kVA]::S [kVA]::S [kVA]::S [kVA]::1::0::1::1::0
+P1arm[W]::P1arm[W]::P1arm[W]::P1arm[W]::P1arm[W]::1::0::1::1::0
+P1ecc[W]::P1ecc[W]::P1ecc[W]::P1ecc[W]::P1ecc[W]::1::0::1::1::0
+Parm[kW]::Parm[kW]::Parm[kW]::Parm[kW]::Parm[kW]::1::0::1::1::0
+P1ecc[kW]::P1ecc[kW]::P1ecc[kW]::P1ecc[kW]::P1ecc[kW]::1::0::1::1::0
+Cond[uF]::Cond[uF]::Cond[uF]::Cond[uF]::Cond[uF]::1::0::1::1::0
+P1_linea_6fili[W]::P1_linea_6fili[W]::P1_linea_6fili[W]::P1_linea_6fili[W]::P1_linea_6fili[W]::1::0::1::1::0
+P1_linea_6fili[kW]::P1_linea_6fili[kW]::P1_linea_6fili[kW]::P1_linea_6fili[kW]::P1_linea_6fili[kW]::1::0::1::1::0
+eta_gr_6fili [%]::eta_gr_6fili [%]::eta_gr_6fili [%]::eta_gr_6fili [%]::eta_gr_6fili [%]::1::0::1::1::0
+eta_inverter_6fili [%]::eta_inverter_6fili [%]::eta_inverter_6fili [%]::eta_inverter_6fili [%]::eta_inverter_6fili [%]::1::0::1::1::0
+pf_linea_6fili::pf_linea_6fili::pf_linea_6fili::pf_linea_6fili::pf_linea_6fili::1::0::1::1::0
+U4 [V]::U4 [V]::U4 [V]::U4 [V]::U4 [V]::1::0::1::1::0
+U5 [V]::U5 [V]::U5 [V]::U5 [V]::U5 [V]::1::0::1::1::0
+U6 [V]::U6 [V]::U6 [V]::U6 [V]::U6 [V]::1::0::1::1::0
+U456_media [V]::U456_media [V]::U456_media [V]::U456_media [V]::U456_media [V]::1::0::1::1::0
+I4 [A]::I4 [A]::I4 [A]::I4 [A]::I4 [A]::1::0::1::1::0
+I5 [A]::I5 [A]::I5 [A]::I5 [A]::I5 [A]::1::0::1::1::0
+I6 [A]::I6 [A]::I6 [A]::I6 [A]::I6 [A]::1::0::1::1::0
+I456_media [A]::I456_media [A]::I456_media [A]::I456_media [A]::I456_media [A]::1::0::1::1::0
+C [Nm]*C::C [Nm]*C::C [Nm]*C::C [Nm]*C::C [Nm]*C::1::0::1::1::0
+Cric [Nm]::Cric [Nm]::Cric [Nm]::Cric [Nm]::Cric [Nm]::1::0::1::1::0
+Cric\Cnom::Cric\Cnom::Cric\Cnom::Cric\Cnom::Cric\Cnom::1::0::1::1::0
+Iric[A]::Iric[A]::Iric[A]::Iric[A]::Iric[A]::1::0::1::1::0
+Iric\Inom::Iric\Inom::Iric\Inom::Iric\Inom::Iric\Inom::1::0::1::1::0
+P2_mecc [W]::P2_mecc [W]::P2_mecc [W]::P2_mecc [W]::P2_mecc [W]::1::0::1::1::0
+P2_mecc [kW]::P2_mecc [kW]::P2_mecc [kW]::P2_mecc [kW]::P2_mecc [kW]::1::0::1::1::0
+eta motore [%]::eta motore [%]::eta motore [%]::eta motore [%]::eta motore [%]::1::0::1::1::0
+Scorr[%]::Scorr[%]::Scorr[%]::Scorr[%]::Scorr[%]::1::0::1::1::0
+Tamb[°C]::Tamb[°C]::Tamb[°C]::Tamb[°C]::Tamb[°C]::1::0::1::1::0
+R1[ohm]::R1[ohm]::R1[ohm]::R1[ohm]::R1[ohm]::1::0::1::1::0
+R2[ohm]::R2[ohm]::R2[ohm]::R2[ohm]::R2[ohm]::1::0::1::1::0
+R3[ohm]::R3[ohm]::R3[ohm]::R3[ohm]::R3[ohm]::1::0::1::1::0
+Rmedia[ohm]::Rmedia[ohm]::Rmedia[ohm]::Rmedia[ohm]::Rmedia[ohm]::1::0::1::1::0
+DT_R1[°C]::DT_R1[°C]::DT_R1[°C]::DT_R1[°C]::DT_R1[°C]::1::0::1::1::0
+DT_R2[°C]::DT_R2[°C]::DT_R2[°C]::DT_R2[°C]::DT_R2[°C]::1::0::1::1::0
+DT_R3[°C]::DT_R3[°C]::DT_R3[°C]::DT_R3[°C]::DT_R3[°C]::1::0::1::1::0
+DT_media[°C]::DT_media[°C]::DT_media[°C]::DT_media[°C]::DT_media[°C]::1::0::1::1::0
+R_marcia[ohm]::R_marcia[ohm]::R_marcia[ohm]::R_marcia[ohm]::R_marcia[ohm]::1::0::1::1::0
+R_aux[ohm]::R_aux[ohm]::R_aux[ohm]::R_aux[ohm]::R_aux[ohm]::1::0::1::1::0
+DT_marcia[°C]::DT_marcia[°C]::DT_marcia[°C]::DT_marcia[°C]::DT_marcia[°C]::1::0::1::1::0
+DT_aux[°C]::DT_aux[°C]::DT_aux[°C]::DT_aux[°C]::DT_aux[°C]::1::0::1::1::0
+R_Arm[ohm]::R_Arm[ohm]::R_Arm[ohm]::R_Arm[ohm]::R_Arm[ohm]::1::0::1::1::0
+R_Ecc[ohm]::R_Ecc[ohm]::R_Ecc[ohm]::R_Ecc[ohm]::R_Ecc[ohm]::1::0::1::1::0
+DT_Arm[°C]::DT_Arm[°C]::DT_Arm[°C]::DT_Arm[°C]::DT_Arm[°C]::1::0::1::1::0
+DT_Ecc[°C]::DT_Ecc[°C]::DT_Ecc[°C]::DT_Ecc[°C]::DT_Ecc[°C]::1::0::1::1::0
+TambFreddo[°C]::TambFreddo[°C]::TambFreddo[°C]::TambFreddo[°C]::TambFreddo[°C]::1::0::1::1::0
+R1_freddo[ohm]::R1_freddo[ohm]::R1_freddo[ohm]::R1_freddo[ohm]::R1_freddo[ohm]::1::0::1::1::0
+R2_freddo[ohm]::R2_freddo[ohm]::R2_freddo[ohm]::R2_freddo[ohm]::R2_freddo[ohm]::1::0::1::1::0
+R3_freddo[ohm]::R3_freddo[ohm]::R3_freddo[ohm]::R3_freddo[ohm]::R3_freddo[ohm]::1::0::1::1::0
+Rmedia_freddo[ohm]::Rmedia_freddo[ohm]::Rmedia_freddo[ohm]::Rmedia_freddo[ohm]::Rmedia_freddo[ohm]::1::0::1::1::0
+R_Marcia_freddo[ohm]::R_Marcia_freddo[ohm]::R_Marcia_freddo[ohm]::R_Marcia_freddo[ohm]::R_Marcia_freddo[ohm]::1::0::1::1::0
+R_Aux_freddo[ohm]::R_Aux_freddo[ohm]::R_Aux_freddo[ohm]::R_Aux_freddo[ohm]::R_Aux_freddo[ohm]::1::0::1::1::0
+R_Arm_freddo[ohm]::R_Arm_freddo[ohm]::R_Arm_freddo[ohm]::R_Arm_freddo[ohm]::R_Arm_freddo[ohm]::1::0::1::1::0
+R_Ecc_freddo[ohm]::R_Ecc_freddo[ohm]::R_Ecc_freddo[ohm]::R_Ecc_freddo[ohm]::R_Ecc_freddo[ohm]::1::0::1::1::0
+TC1[°C]::TC1[°C]::TC1[°C]::TC1[°C]::TC1[°C]::1::0::1::1::0
+TC2[°C]::TC2[°C]::TC2[°C]::TC2[°C]::TC2[°C]::1::0::1::1::0
+TC3[°C]::TC3[°C]::TC3[°C]::TC3[°C]::TC3[°C]::1::0::1::1::0
+TC4[°C]::TC4[°C]::TC4[°C]::TC4[°C]::TC4[°C]::1::0::1::1::0
+TC5[°C]::TC5[°C]::TC5[°C]::TC5[°C]::TC5[°C]::1::0::1::1::0
+TC6[°C]::TC6[°C]::TC6[°C]::TC6[°C]::TC6[°C]::1::0::1::1::0
+TC7[°C]::TC7[°C]::TC7[°C]::TC7[°C]::TC7[°C]::1::0::1::1::0
+TC8[°C]::TC8[°C]::TC8[°C]::TC8[°C]::TC8[°C]::1::0::1::1::0
+PT0000_1[°C]::PT0000_1[°C]::PT0000_1[°C]::PT0000_1[°C]::PT0000_1[°C]::1::0::1::1::0
+PT0000_2[°C]::PT0000_2[°C]::PT0000_2[°C]::PT0000_2[°C]::PT0000_2[°C]::1::0::1::1::0
+PT0000_3[°C]::PT0000_3[°C]::PT0000_3[°C]::PT0000_3[°C]::PT0000_3[°C]::1::0::1::1::0
+Vdc eccitatrice[V]::Vdc eccitatrice[V]::Vdc eccitatrice[V]::Vdc eccitatrice[V]::Vdc eccitatrice[V]::1::0::1::1::0
+Idc eccitatrice[A]::Idc eccitatrice[A]::Idc eccitatrice[A]::Idc eccitatrice[A]::Idc eccitatrice[A]::1::0::1::1::0
+Vdc rotore[V]::Vdc rotore[V]::Vdc rotore[V]::Vdc rotore[V]::Vdc rotore[V]::1::0::1::1::0
+Idc rotore[A]::Idc rotore[A]::Idc rotore[A]::Idc rotore[A]::Idc rotore[A]::1::0::1::1::0
+Vac rotore[V]::Vac rotore[V]::Vac rotore[V]::Vac rotore[V]::Vac rotore[V]::1::0::1::1::0
+Iac rotore[V]::Iac rotore[V]::Iac rotore[V]::Iac rotore[V]::Iac rotore[V]::1::0::1::1::0
+V dinamo[V]::V dinamo[V]::V dinamo[V]::V dinamo[V]::V dinamo[V]::1::0::1::1::0
+Portata Q::Portata Q::Portata Q::Portata Q::Portata Q::1::0::1::1::0
+Pressione H::Pressione H::Pressione H::Pressione H::Pressione H::1::0::1::1::0
+U1'[V]::U1'[V]::Scorta 1::Scorta 1::Scorta 1::1::0::1::1::0
+U2'[V]::U2'[V]::Scorta 2::Scorta 2::Scorta 2::1::0::1::1::0
+U3'[V]::U3'[V]::Scorta 3::Scorta 3::Scorta 3::1::0::1::1::0
+I1'[A]::I1'[A]::Scorta 4::Scorta 4::Scorta 4::1::0::1::1::0
+I2'[A]::I2'[A]::Scorta 5::Scorta 5::Scorta 5::1::0::1::1::0
+I3'[A]::I3'[A]::Scorta 6::Scorta 6::Scorta 6::1::0::1::1::0
+U''R-N::U''R-N::Scorta 7::Scorta 7::Scorta 7::1::0::1::1::0
+U''S-N::U''S-N::Scorta 8::Scorta 8::Scorta 8::1::0::1::1::0
+U'' T-N::U'' T-N::Scorta 9::Scorta 9::Scorta 9::1::0::1::1::0
+U''R-S::U''R-S::Scorta 11::Scorta 11::Scorta 11::1::0::1::1::0
+U''R-T::U''R-T::Scorta 11::Scorta 11::Scorta 11::1::0::1::1::0
+U''S-T::U''S-T::Scorta 12::Scorta 12::Scorta 12::1::0::1::1::0
+I1''[A]::I1''[A]::Scorta 13::Scorta 13::Scorta 13::1::0::1::1::0
+I2''[A]::I2''[A]::Scorta 14::Scorta 14::Scorta 14::1::0::1::1::0
+I3''[A]::I3''[A]::Scorta 15::Scorta 15::Scorta 15::1::0::1::1::0
+F''[Hz]::F''[Hz]::Scorta 16::Scorta 16::Scorta 16::1::0::1::1::0
+P''[kW]::P''[kW]::Scorta 17::Scorta 17::Scorta 17::1::0::1::1::0
+CosFi''::CosFi''::Scorta 18::Scorta 18::Scorta 18::1::0::1::1::0
+PT0000_4[°C]::PT0000_4[°C]::PT0000_4[°C]::PT0000_4[°C]::PT0000_4[°C]::1::0::1::1::0
+scorta::scorta::scorta::scorta::scorta::1::0::1::1::0
+C_T	 [Nm]::C [Nm]*C::C [Nm]*C::C [Nm]*C::C [Nm]*C::1::0::1::1::0
+C_SG [Nm]::C [Nm]*C::C [Nm]*C::C [Nm]*C::C [Nm]*C::1::0::1::1::0

@@ -1,0 +1,18 @@
+*****************************************************************************************
+*ELETTROTEST SPA - BADIA POLESINE (RO) - ITALY - www.elettrotestspa.it			*
+*Diritti riservati - Il presente software non può essere consegnato a terzi o ditte	*
+*concorrenti.										*
+*											*
+*TITOLO:		PS DRIVER Rev. 1						*
+*DESCRIZIONE:		Driver per programma di interfaccia seriale per TPS.		*
+*AUTORE:		BOSCOLO ANDREA							*
+*UT:			UT005.10							*
+*DATA APPROVAZIONE:									*
+*MODIFICHE:		REV1 (6/3/2014) Modificati CPS_SERIAL_READ.VI e	CPS_SERIAL_WRITE*								*					CPS_SERIAL_WRITE.VI.				*
+*			REV0 (21/1/2014) Versione B4 rinominata.			*
+*			B4 (8/2/2013) Nuova revisione.					*
+*			B3 (27/7/2012) Nuova revisione.					*
+*			B2 (28/7/2010) Nuova revisione.					*
+*			B1 (10/7/2010) Nuova revisione.					*
+*			B0 (8/6/2010) Versione iniziale.				*
+*****************************************************************************************

@@ -1,0 +1,30 @@
+Wiring A(0=1P2W;1=1P3W;2=3P3W;3=3P4W;4=3V3A;)::0
+Wiring B(0=1P2W;1=1P3W;2=3P3W;3=3P4W;4=3V3A;5=NONE;)::0
+Wiring C(0=1P2W;1=1P3W;2=3P3W;3=3P4W;4=3V3A;5=NONE;)::0
+V Range(0=AUTO;1=1,5;2=3;3=6;4=10;5=15;6=30;7=60;8=100;9=150;10=300;11=600;12=1000;)::0
+V Element(0:All)::0
+A Element(0:All)::0
+A Range /1/2/3/(12: 1000)::0
+A Sensor Ratio /1/2/3/(mV/A)(10.0000)::1.0000
+Line Filter cut off frequency set /1/2/3/4/5/6/(0 = OFF)::0
+Freq. Filter /1/2/3/(0: OFF)::0
+PT Ratio /1/2/3/(1.0000)::1.0000
+Scaling /1/2/3/(0: OFF)::0
+CT Ratio(1.0000) /1/2/3/::1000.0000
+Scaling Factor /1/2/3/(1.0000)::1.0000
+Filter Element(0:All)::0
+Display Format(0: Numeric)::0
+Normal Item Amount(1: 4)::0
+Harmonics Item Amount(1: 4)::3
+avarage Type(0: OFF)::1
+Avarage count(2:8)::2
+Freq. Filter /4/5/6/(0: OFF)::0
+Empty::0
+PT Ratio /4/5/6/(1.0000)::1.0000
+CT Ratio /4/5/6/(1.0000)::1000.0000
+Scaling Factor /4/5/6/(1.0000)::1.0000
+Scaling /4/5/6/(0: OFF)::1
+A Range /4/5/6/(12: 1000)::0
+A Sensor Ratio(mV/A)/4/5/6/(10.0000)::1.0000
+
+

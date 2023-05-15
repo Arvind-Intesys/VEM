@@ -1,0 +1,111 @@
+Banco::				1	::	1	::	1
+Anno::				1	::	1	::	1
+Numero::			1	::	1	::	1
+N° tabella::			1	::	1	::	1
+Misura::			1	::	1	::	1
+Tipo prova::			1	::	1	::	1
+Progressivo Acq::		1	::	1	::	1
+tempo[h:m:s]::			1	::	1	::	1
+tempo acq[min]**[tempo]::	1	::	1	::	1
+f [Hz]::			1	::	1	::	1
+Ulinea [V]::			0	::	0	::	1
+UC [V]::			0	::	0	::	1
+Uaux [V]::			0	::	0	::	1
+Ilinea [A]::			0	::	0	::	1
+Imarcia [A]::			0	::	0	::	1
+Iaux [A]::			0	::	0	::	1
+Uav [V]::			1	::	0	::	0
+Iav [A]::			1	::	0	::	0
+Uav linea [V]::			0	::	1	::	0
+Iav linea [A]::			0	::	1	::	0
+Tq [Nm]::			1	::	1	::	1
+% scostamento::			0	::	0	::	0
+n [rpm]**[RPM]::		1	::	1	::	1
+% scostamento::			0	::	0	::	0
+P1 [kW]**[P1]::			1	::	0	::	1
+P1 n[kW]::			1	::	0	::	1
+P1 linea [kW]**[P1]::		0	::	1	::	0
+P1 linea n[kW]::		0	::	1	::	0
+% scostamento::			0	::	0	::	0
+Uav motor [V]::			0	::	1	::	0
+Iav motor [A]::			0	::	1	::	0
+P1 motor [kW]**[P1]::		0	::	1	::	0
+P1 motor n[kW]::		0	::	1	::	0
+% scostamento::			0	::	0	::	0
+Q [m3/h]**[Q]::			1	::	1	::	1
+Q n[m3/h]::			1	::	1	::	1
+% scostamento::			0	::	0	::	0
+Q [l/min]::			1	::	1	::	1
+Q n[l/min]::			1	::	1	::	1
+H1 [m]::			1	::	1	::	1
+% scostamento::			0	::	0	::	0
+Dislivello [m]::		1	::	1	::	1
+Hdinamica [m]::			1	::	1	::	1
+HvAsp [m]::			1	::	1	::	1
+HvMand [m]::			1	::	1	::	1
+HvTot [m]::			1	::	1	::	1
+H2 [m]::			1	::	1	::	1
+% scostamento::			0	::	0	::	0
+Htot [m]**[Htot]::		1	::	1	::	1
+Htot n[m]::			1	::	1	::	1
+% scostamento::			0	::	0	::	0
+P3 (Phyd) [kW]**[P3]::		1	::	1	::	1
+P3 (Phyd) n[kW]::		1	::	1	::	1
+P2 [kW]**[P2]::			1	::	1	::	1
+P2 n[kW]::			1	::	1	::	1
+P2 n ps[kW]::			1	::	1	::	1
+eta motore [%]::		1	::	1	::	1
+eta pompa [%]**[etap]::		1	::	1	::	1
+eta pompa n[%]::		1	::	1	::	1
+eta gruppo [%]**[etagr]::	1	::	1	::	1
+eta gruppo n[%]::		1	::	1	::	1
+eta inverter [%]::		0	::	1	::	0
+T acqua [°C]::			1	::	1	::	1
+Densità liquido [kg/m3]::	1	::	1	::	1
+P barometrica [mbar]::		1	::	1	::	1
+pf linea::			0	::	1	::	0
+pf motor::			0	::	1	::	0
+pf::				1	::	0	::	1
+Data ora::			0	::	0	::	0
+Uch1 [V]::			1	::	1	::	0
+Uch2 [V]::			1	::	1	::	0
+Uch3 [V]::			1	::	1	::	0
+Ich1 [A]::			1	::	1	::	0
+Ich2 [A]::			1	::	1	::	0
+Ich3 [A]::			1	::	1	::	0
+Uch4 [V]::			0	::	1	::	0
+Uch5 [V]::			0	::	1	::	0
+Uch6 [V]::			0	::	1	::	0
+Ich4 [A]::			0	::	1	::	0
+Ich5 [A]::			0	::	1	::	0
+Ich6 [A]::			0	::	1	::	0
+Temp.amb[°C]::			1	::	1	::	1
+Rmarcia [ohm]::			0	::	0	::	1
+Raux [ohm]::			0	::	0	::	1
+DTmarcia [°C]**[DTmar]::	0	::	0	::	1
+DTaux [°C]**[DTaux]::		0	::	0	::	1
+Ru-w [ohm]::			1	::	1	::	0
+DTavvolg. [°C]**[DT]::		1	::	1	::	0
+Tamb Freddo [°C]::		1	::	1	::	1
+Raux Freddo[ohm]::		0	::	0	::	1
+Rmarcia Freddo[ohm]::		0	::	0	::	1
+Ru-w Freddo [ohm]::		1	::	1	::	0
+Tc1[°C]**[TC1]::		1	::	1	::	1
+Tc2[°C]**[TC2]::		1	::	1	::	1
+Tc3[°C]**[TC3]::		1	::	1	::	1
+Tc4[°C]**[TC4]::		1	::	1	::	1
+Tc5::				1	::	1	::	1
+Tc6::				1	::	1	::	1
+Tc7::				1	::	1	::	1
+Tc8::				1	::	1	::	1
+H1[Bar]::			1	::	1	::	1
+H2[bar]::			1	::	1	::	1
+P premist.[Bar]::		1	::	1	::	1
+Pserb[bar]::			1	::	1	::	1
+n°NPSH::			1	::	1	::	1
+NPSH**[NPSH]::			1	::	1	::	1
+Htot Ref[m]::			1	::	1	::	1
+NPSH_%caduta::			1	::	1	::	1
+%caduta::			1	::	1	::	1
+Qref [m3/h]::			1	::	1	::	1
+MEI::				1	::	1	::	1

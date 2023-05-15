@@ -1,0 +1,3 @@
+Corrente [A]::Minimo::12::13::14
+::Massimo::23::24::25
+::Frequenza [Hz]::40::50::60

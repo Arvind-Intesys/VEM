@@ -1,0 +1,15 @@
+Ingresso Q DN40::Q DN40::::0.004::0.020::350::0::l/min::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+TC1::Termocoppia 1::BANCO3::0.000::100.000::100::0::°C::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+TC2::Termocoppia 2::BANCO3::0.000::100.000::100::0::°C::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+TC3::Termocoppia 3::BANCO3::0.000::100.000::100::0::°C::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+TC4::Termocoppia 4::BANCO3::0.000::100.000::100::0::°C::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+Tamb_ResMeter::TC Tamb res meter::BANCO3::0.000::100.000::100::0::°C::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B1-Q DN40::Q DN40::BANCO 1::0.004::0.020::350::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B1-Q DN80::Q DN80::BANCO 1::0.004::0.020::500::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B1-Q DN150::Q DN150::BANCO 1::0.004::0.020::1000::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Q DN25::Q DN25::BANCO 3::0.004::0.020::60::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Q DN65::Q DN65::BANCO 3::0.004::0.020::100::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Q SOMMA::Q DN25+Q DN65::Sensore fittizio per somma::0.004::0.020::200::0::m3/h::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Canale 1 [4-20mA]::[-1;+1] Bar::BANCO 3::0.004::0.020::2::0::Bar::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Canale 2 [4-20mA]::[0;6] Bar::BANCO 3::0.004::0.020::6::0::Bar::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::
+B3-Canale 3 [4-20mA]::[0;25] Bar::BANCO 3::0.004::0.020::25::0::Bar::ASSENTE::RANGE/OFFSET::::::::::::::::::::::::::::::::::::::::::

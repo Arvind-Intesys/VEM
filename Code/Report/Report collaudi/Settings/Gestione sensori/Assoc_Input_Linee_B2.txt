@@ -1,0 +1,25 @@
+LINEA 1 - PORTATA::Q DN50::::::::::::::
+LINEA 1 - PRESSIONE MANDATA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::::::
+LINEA 1 - PRESSIONE ASPIRAZIONE::Pressione TPA1::Pressione TPA2::Pressione TPA3::::::::::
+LINEA 1 - PRESSIONE PREMISTOPPA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::Pressione TPM6::::
+LINEA 1 - COPPIA::Coppia B1::::::::::::::
+LINEA 2 - PORTATA::Q DN125::::::::::::::
+LINEA 2 - PRESSIONE MANDATA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::::::
+LINEA 2 - PRESSIONE ASPIRAZIONE::Pressione TPA1::Pressione TPA2::Pressione TPA3::::::::::
+LINEA 2 - PRESSIONE PREMISTOPPA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::Pressione TPM6::::
+LINEA 2 - COPPIA::Coppia B1::::::::::::::
+LINEA 3 - PORTATA::Q DN250::::::::::::::
+LINEA 3 - PRESSIONE MANDATA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::::::
+LINEA 3 - PRESSIONE ASPIRAZIONE::Pressione TPA1::Pressione TPA2::Pressione TPA3::::::::::
+LINEA 3 - PRESSIONE PREMISTOPPA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::Pressione TPM6::::
+LINEA 3 - COPPIA::Coppia B1::::::::::::::
+LINEA 4 - PORTATA::Q DN450::::::::::::::
+LINEA 4 - PRESSIONE MANDATA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::::::
+LINEA 4 - PRESSIONE ASPIRAZIONE::Pressione TPA1::Pressione TPA2::Pressione TPA3::::::::::
+LINEA 4 - PRESSIONE PREMISTOPPA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::Pressione TPM6::::
+LINEA 4 - COPPIA::Coppia B1::::::::::::::
+LINEA 5 - PORTATA::Q DN150::::::::::::::
+LINEA 5 - PRESSIONE MANDATA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::::::
+LINEA 5 - PRESSIONE ASPIRAZIONE::Pressione TPA1::Pressione TPA2::Pressione TPA3::::::::::
+LINEA 5 - PRESSIONE PREMISTOPPA::Pressione TPM1::Pressione TPM2::Pressione TPM3::Pressione TPM4::Pressione TPM5::Pressione TPM6::::
+LINEA 5 - COPPIA::Coppia B1::::::::::::::

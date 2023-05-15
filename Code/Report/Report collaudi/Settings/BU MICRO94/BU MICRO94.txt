@@ -1,0 +1,7 @@
+COM::COM8
+BaudRate::9600
+DataBits::8
+Parity(0=none)::0
+StopBits(0=1.0)::1
+flowcontrol(0=none)::0
+Delay before read ms::500

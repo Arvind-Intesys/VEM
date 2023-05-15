@@ -1,0 +1,3 @@
+SampleMode::1
+N°samples::1000
+SampleRate::10000

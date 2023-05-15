@@ -1,0 +1,25 @@
+Numero::Riporta
+Misura::Riporta
+Acquisizione::NO
+Data::Riporta
+tempo camp. [s]::Riporta
+Q [m3/h]::Analisi
+Q [GPM]::Media
+H1 [bar]::Analisi
+Dislivello [m]::Media
+Hdinamica [m]::Media
+H2 [bar]::Analisi
+Htot [m]::Media
+Htot [PSI]::Media
+P3 (Phyd) [W]::Media
+n [rpm]::Analisi
+Tq [Nm]::Analisi
+P2 [W]::Media
+eta pompa [%]::Media
+T [°C]::Analisi
+Densità liquido [kg/m3]::Media
+P barometrica [mbar]::Media
+Note::Riporta
+Note::Riporta
+Note::Riporta
+Note::Riporta
